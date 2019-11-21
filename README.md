@@ -1,2 +1,2 @@
-# travis-log-extract
+# TravisCIX
 Extracts information from TravisCI log files
